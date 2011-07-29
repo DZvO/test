@@ -14,3 +14,6 @@ __What you need!__ (at the moment only linux is supported; you can probably get 
 > * [Python](http://python.org), either 2.7 or 3.x
 > * [Scons](http://scons.org), 2.0.x 
 > * [Boost](http://boost.org), any version >1.4 should be ok
+
+__Have everything?__
+> Then run "scons", the binarys will be placed in a new directory called "build"
