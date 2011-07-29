@@ -7,7 +7,7 @@ A console/terminal based 'chat' application. Features are:
 
 How to Build
 ------------
-__What you need!__ (at the moment only linux is supported; you can probably get all of these from your package manager)
+__What you need!__ (at the moment only linux is supported; you can probably get all of these from your package manager)  
 > * Standard __binutils__ and __gcc/g++__
 > * [Python](http://python.org), either 2.7 or 3.x
 > * [Scons](http://scons.org), 2.0.x 
