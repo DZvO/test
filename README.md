@@ -16,4 +16,5 @@ __What you need!__ (at the moment only linux is supported; you can probably get 
 > * [Boost](http://boost.org), any version >1.4 should be ok
 
 __Have everything?__
+
 > Then run "scons", the binarys will be placed in a new directory called "build"
