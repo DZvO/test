@@ -1,5 +1,5 @@
+----
 About
------
 A console/terminal based 'chat' application. Features are:  
 * Usage of the standard "low level" BSD-style socket APIs and high abstraction of them.
 * Threading and synchronisation (Not yet done)
